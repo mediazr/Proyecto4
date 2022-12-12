@@ -1,7 +1,9 @@
 h1 {
-    color: blue;
-    background-color: rgba(212, 212, 36, 0.329);
-    border: 1px solid rgb(110, 64, 64);
+    font-size: 2.3em;
+	line-height: 1.3em;
+	margin: 15px 0;
+	text-align: center;
+	font-weight: 300;
 }
 
 p {
