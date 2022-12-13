@@ -19,3 +19,17 @@ experimento 1 --> estoy en la rama experimento
 -----------------------
 
 Modificación realizada para la prueba de stash y cherry-pick
+<<<<<<< HEAD
+=======
+# Modificiacion 2 con cherry pick
+
+------------------------------------
+
+modificación de nuevo
+y de nuevo
+y otra vez
+-----
+# 3
+Lo volvimos hacer
+------------------------------
+>>>>>>> 3630ef8 (2)
