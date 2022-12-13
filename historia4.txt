@@ -20,7 +20,10 @@ experimento 1 --> estoy en la rama experimento
 
 Modificación realizada para la prueba de stash y cherry-pick
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> historia4
 # Modificiacion 2 con cherry pick
 
 ------------------------------------
@@ -32,4 +35,10 @@ y otra vez
 # 3
 Lo volvimos hacer
 ------------------------------
+<<<<<<< HEAD
 >>>>>>> 3630ef8 (2)
+=======
+# 4
+
+y de nuevo
+>>>>>>> historia4
