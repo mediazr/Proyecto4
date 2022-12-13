@@ -15,8 +15,7 @@ Master 1
 master 2 ---> estoy en la rama master
 
 experimento 1 --> estoy en la rama experimento
-<<<<<<< HEAD
-=======
 
-Una mejora para el arvhivo txt
->>>>>>> modificacion-historia4
+-----------------------
+
+Modificación realizada para la prueba de stash y cherry-pick
